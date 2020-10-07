@@ -1,0 +1,351 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="panishree.com" resolutions="1x" timestamp="1602076450906">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="527542559" ref="index"/>
+    <file name="designs.css" crc="4180252923" ref="designs"/>
+    <file name="designs-3.css" crc="3891086797" ref="designs-3"/>
+    <file name="portfolio.css" crc="505830152" ref="portfolio"/>
+    <file name="service.css" crc="289032233" ref="service"/>
+    <file name="designs-2.css" crc="183383337" ref="designs-2"/>
+    <file name="contact.css" crc="3986531475" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="museutils.js" crc="3939489907" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="webpro.js" crc="3856315280" ref="index:portfolio"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="require.js" crc="4177726516" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3986029055" ref="index"/>
+    <file name="bg-top.jpg" crc="436138536" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2020-09-29 at 112323 pm.jpg" crc="3980993641" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="u114-4.png" crc="432832067" ref="index"/>
+    <file name="dribble.jpg" crc="3900312861" seo="true" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="3814358492" seo="true" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="linkedin.jpg" crc="4032340596" seo="true" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="pinterest.jpg" crc="340003248" seo="true" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="462041627" seo="true" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="phone-grey.png" crc="319078679" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mxcp_1601737132847.jpg" crc="3909987149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio"/>
+    <file name="aaron-huber-g7se2s4lab4-unsplash.jpg" crc="28890931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="deborah-cortelazzi-grequcuxqli-unsplash.jpg" crc="3799404033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naomi-hebert-mp0bgas_d1c-unsplash.jpg" crc="156779580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nastuh-abootalebi-jdcjn85xd2k-unsplash.jpg" crc="432533014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toa-heftiba-fv3gconvsss-unsplash.jpg" crc="3936393321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
+    <file name="sameer.jpg" crc="4044821127" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1341-4.png" crc="3793843318" ref="index"/>
+    <file name="6.jpg" crc="368954628" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="9.jpg" crc="54931411" ref="index:service:designs:portfolio:contact:designs-2:designs-3">
+      <caption webpage="service" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="designs-3" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="11-u1839-fr.jpg" crc="3790579615" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="12-u1840-fr.jpg" crc="4199565801" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="4-u1824-fr.jpg" crc="3850765066" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="1-u1841-fr.jpg" crc="226734179" ref="index:service:designs:portfolio:contact:designs-2:designs-3"/>
+    <file name="leonie-krickhuhn-bnlk4ujwt_8-unsplash.jpg" crc="254224841" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="u2048-4.png" crc="432832067" ref="service"/>
+    <file name="021-u2277-fr.jpg" crc="527300768" ref="service"/>
+    <file name="antique and modern furniture.jpg" crc="4071981363" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="01.jpg" crc="1571849" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="t_35-01.jpg" crc="4055500204" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="04.jpg" crc="296135245" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="27.jpg" crc="473467709" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="30.jpg" crc="238358373" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="131.jpg" crc="465891138" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="52.jpg" crc="3945757041" ref="service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="12.jpg" crc="55811136" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="u2577-4.png" crc="432832067" ref="designs"/>
+    <file name="1.jpg" crc="4205584966" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="11.jpg" crc="77623132" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4184617395" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="5.jpg" crc="125297730" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="nautical-interior-design-style-and-decoration-ideas-1.jpg" crc="176966720" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="elegant-contemporary-interior-design-styles-living-room.jpg" crc="3856417507" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+    <file name="u3916-4.png" crc="432832067" ref="portfolio"/>
+    <file name="u5097-4.png" crc="79898247" ref="portfolio"/>
+    <file name="p2.jpg" crc="519063756" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p15.jpg" crc="3820017946" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p16.jpg" crc="4269384744" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p17.jpg" crc="534600187" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p18.jpg" crc="157305677" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p19.jpg" crc="3953369866" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="209452721" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="3831259128" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="166301585" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="492391143" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4238790786" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="157305677" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="3909990822" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p10.jpg" crc="53956813" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p11.jpg" crc="3774162160" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p12.jpg" crc="504681908" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p13.jpg" crc="4113640779" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p14.jpg" crc="260952192" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="first.svg" crc="4214889106" ref="portfolio"/>
+    <file name="first_poster_u4196.png" crc="154968947" ref="portfolio"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="portfolio"/>
+    <file name="left-arrow_poster_u4232.png" crc="4189366824" ref="portfolio"/>
+    <file name="right-arrow.svg" crc="415473593" ref="portfolio"/>
+    <file name="right-arrow_poster_u4158.png" crc="3934377674" ref="portfolio"/>
+    <file name="last.svg" crc="3807741576" ref="portfolio"/>
+    <file name="last_poster_u4169.png" crc="412417395" ref="portfolio"/>
+    <file name="pasted-svg-36x36.svg" crc="3916680880" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p15-crop-u4844.jpg" crc="4282020542" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p16452x339.jpg" crc="4269384744" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p17-crop-u4884.jpg" crc="4060271066" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p18-crop-u4904.jpg" crc="4219482244" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p4-crop-u4523.jpg" crc="4656918" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p7452x339.jpg" crc="4238790786" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p8-crop-u4627.jpg" crc="4219482244" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p9-crop-u4653.jpg" crc="253461737" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p13-crop-u4757.jpg" crc="513385416" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="p14449x339.jpg" crc="424041437" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="alexander-kovacs-3pzoj__ewoc-unsplash-u1622-fr.png" crc="3808614987" ref="contact"/>
+    <file name="u1465-4.png" crc="432832067" ref="contact"/>
+    <file name="dd (2).jpg" crc="479055122" ref="designs-2">
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="u3046-4.png" crc="432832067" ref="designs-2"/>
+    <file name="interior-design-style-meaning.jpg" crc="362621896" ref="designs-2">
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="contemporary-vs-modern-interior-design.jpg" crc="4282613523" ref="designs-2">
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="800px-2018_maastricht,_lumière_café-restaurant_1.jpg" crc="430372494" ref="designs-2">
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="ssss.jpg" crc="93671291" ref="designs-2">
+      <caption webpage="designs-2" alt=""/>
+    </file>
+    <file name="dd (1).jpg" crc="528560350" ref="designs-3">
+      <caption webpage="designs-3" alt=""/>
+    </file>
+    <file name="u3473-4.png" crc="432832067" ref="designs-3"/>
+    <file name="210690-425x283-mediterranean-staircase-in-foyer.jpg" crc="3843410037" ref="designs-3">
+      <caption webpage="designs-3" alt=""/>
+    </file>
+    <file name="mid-century-modern-family-room-interior-design.jpg" crc="205670292" ref="designs-3">
+      <caption webpage="designs-3" alt=""/>
+    </file>
+    <file name="eclectic-style-home-interior-design.jpg" crc="469235221" ref="designs-3">
+      <caption webpage="designs-3" alt=""/>
+    </file>
+    <file name="coastal-decor-decorating-tips.jpg" crc="4185031370" ref="designs-3">
+      <caption webpage="designs-3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3811601344" seo="true" mt="1602076249805" redirect="true"/>
+  <file name="service.html" crc="4106393780" seo="true" mt="1602076249805" redirect="true"/>
+  <file name="designs.html" crc="166183693" seo="true" mt="1602076249805" redirect="true"/>
+  <file name="portfolio.html" crc="4113040322" seo="true" mt="1602076249805" redirect="true"/>
+  <file name="contact.html" crc="254288197" seo="true" mt="1602076249805" redirect="true"/>
+  <file name="designs-2.html" crc="110047045" seo="true" mt="1602076249805" redirect="true"/>
+  <file name="designs-3.html" crc="495575926" seo="true" mt="1602076249805" redirect="true"/>
+</manifest>
